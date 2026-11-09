@@ -1,0 +1,7 @@
+Product_ID,Product_name,category,Cost_price,Selling_price,Stock_quantity
+101,Wireless earbuds,Accessories,25.0,59.99,14
+102,Mechanical keyboard,Peripherals,45.0,99.99,5
+103,Gaming Mouse,Peripherals,18.0,39.99,22
+104,USB-C Hub,Accessories,12.0,29.99,3
+105,Monitor Stand,Furniture,15.0,24.99,18
+106,Desk Mat,Accessories,8.0,8.99,45
